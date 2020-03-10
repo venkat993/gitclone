@@ -1,8 +1,0 @@
-Enumerating objects: 5, done.
-Counting objects: 100% (5/5), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 279 bytes | 93.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To https://github.com/venkat993/gitclone.git
-   19d2a94..78f88f3  master -> master
